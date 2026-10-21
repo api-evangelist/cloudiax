@@ -1,23 +1,77 @@
 aid: cloudiax
+
 name: Cloudiax
-description: 'Cloudiax is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.cloudiax.com/wp-content/uploads/sites/38/2026/02/26-WP-background-SM-1200-x-627.jpg
+
+description: 'Cloudiax provides cloud hosting, infrastructure, AI services, and ERP solutions for businesses. Their platform offers customizable SAP Business One cloud deployments, AI integration layers, and a suite of applications for manufacturing, logistics, and document management. The company targets enterprises seeking scalable, secure cloud environments with advanced AI and ERP capabilities, delivering flexible pricing and extensive support.'
+
 url: https://raw.githubusercontent.com/api-evangelist/cloudiax/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:g2-catalog
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-20 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-20'
+
 modified: '2026-10-20'
+
 tags:
-- Company
-apis: []
+- Cloud
+- Hosting
+- AI
+- ERP
+- Enterprise
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/cloudiax-llms.txt
+- type: WellKnown
+  url: well-known/cloudiax-well-known.yml
+- type: Hosts
+  url: hosts/cloudiax-hosts.yml
+- type: SignUp
+  url: https://www.cloudiax.com/register-for-infos/
+- type: DomainSecurity
+  url: security/cloudiax-domain-security.yml
 - type: Website
   url: https://cloudiax.com/
+
+- type: Blog
+  url: https://www.cloudiax.com/blog/
+- type: Support
+  url: https://www.cloudiax.com/support/
+- type: HelpCenter
+  url: https://www.cloudiax.com/help/
+- type: StatusPage
+  url: https://status.cloudiax.com/
+- type: Pricing
+  url: https://www.cloudiax.com/price-list/
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: "The website loads HTML but no OpenAPI, GraphQL, AsyncAPI, gRPC, or WSDL files were found at common locations."
+  evidence:
+    - url: https://www.cloudiax.com/
+      status: 200
+  checked: '2026-10-20'
+x-enrichment:
+  date: '2026-10-20'
+  status: enriched
+  artifacts_added: 13
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

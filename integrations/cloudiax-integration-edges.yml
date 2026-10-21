@@ -1,0 +1,16 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/cloudiax/integrations
+- https://n8n.io/integrations/cloudiax/
+- https://composio.dev/toolkits/cloudiax
+- https://monid.ai/tools/cloudiax
+checked:
+- https://composio.dev/toolkits/cloudiax
+- https://monid.ai/tools/cloudiax
+- https://n8n.io/integrations/cloudiax/
+- https://zapier.com/apps/cloudiax/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

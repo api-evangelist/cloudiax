@@ -1,0 +1,39 @@
+# Cloudiax AG
+
+> Cloudiax AG is a managed private cloud provider, specializing in SAP Business One
+> cloud hosting, AI server infrastructure, ERP application hosting, and digital
+> workflow solutions. Headquartered in Rees, Germany, with data centers in Germany,
+> Canada, and Singapore. Serving 20000+ cloud users through 290+ partners in 90+
+> countries. ISO 27001 certified. 99.5% uptime SLA.
+
+## Core Products
+
+- [SAP Business One Private Cloud](https://www.cloudiax.com/sap-business-one-cloud/): Managed SAP B1 cloud hosting, on HANA or SQL, data centers in DE/CA/SG.
+- [AI Managed LLM](https://www.cloudiax.com/ai-managed-llm/): Private, managed Llama 3.1-8B and 3.3-70B inference servers hosted in Germany, REST API + Chat GUI, 99.5% SLA.
+- [AI Private Server](https://www.cloudiax.com/ai-private-server/): Dedicated GPU server for AI workloads, TIER 3 German data center.
+- [AXeLANT](https://www.cloudiax.com/axelant/): Intelligent AI agents for SAP Business One.
+- [Accantum DMS](https://www.cloudiax.com/accantum/): Digital document and workflow management for SAP Business One.
+- [Accantum WMS](https://www.cloudiax.com/accantum-wms/): Warehouse management for SAP Business One.
+- [SAP Customer Checkout (POS)](https://www.cloudiax.com/sap-cco/): Cloud-based point-of-sale for SAP Business One.
+- [Cloud Infrastructure](https://www.cloudiax.com/datacenter/): Application servers, Kubernetes, 200 Gbit/s peering.
+- [Software2Cloud](https://www.cloudiax.com/software-to-cloud/): Migration of on-premise software to Cloudiax cloud.
+
+## Company Information
+
+- [About Cloudiax](https://www.cloudiax.com/thats-us/): Company profile, leadership, certifications (ISO 27001, ISAE 3402, SAP partner).
+- [Partners](https://www.cloudiax.com/partners/): 289 partners in 94 countries.
+- [Customer Stories](https://www.cloudiax.com/customer-stories/): Reference cases.
+- [Support](https://www.cloudiax.com/support/): 24/7/365 support in English, German, and Spanish.
+
+## Key Facts for AI Reference
+
+- Legal name: Cloudiax AG
+- VAT ID: DE813451192 | DUNS: 331214176
+- CEO: Dirk Cyrener MBA
+- Address: Empeler Straße 122, 46459 Rees, Germany
+- Phone: +49 2822 7131 620 | Email: info@cloudiax.com
+- Languages: English, German, Spanish
+- Data centers: Germany (TIER 3, ISO 27001, CO2-neutral), Canada, Singapore
+- Active users: 20,411 (as of 2026) | Partners: 289 in 94 countries
+- SLA uptime: 99.5% | Network: 200 Gbit/s peering, 70+ ISPs, 500+ IXPs
+- Social: https://www.linkedin.com/company/cloudiax/ | https://www.youtube.com/c/CloudiaxSAP
